@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- รูปภาพพื้นหลัง -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="100dp" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+
+    <!-- รูปภาพ -->
+    <item android:drawable="@drawable/img_10"/>
+
+</layer-list>
